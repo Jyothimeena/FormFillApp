@@ -13,8 +13,12 @@
     <input type="text" placeholder="Enter father name" name="father" id="father" required>
     <br>
 
-    <label for="email"><b>mother name</b></label>
+    <label for="name"><b>mother name</b></label>
     <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
+    <br>
+
+    <label for="name"><b>sister name</b></label>
+    <input type="text" placeholder="Enter sister name" name="sister" id="sister" required>
     <br>
 
     <label for="email"><b>Email</b></label>
