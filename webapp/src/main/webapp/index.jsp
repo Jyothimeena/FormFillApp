@@ -9,10 +9,13 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>mother name</b></label>
-    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <label for="name"><b>father name</b></label>
+    <input type="text" placeholder="Enter father name" name="father" id="father" required>
     <br>
 
+    <label for="email"><b>mother name</b></label>
+    <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
