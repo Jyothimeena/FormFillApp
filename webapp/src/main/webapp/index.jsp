@@ -17,8 +17,8 @@
     <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
     <br>
 
-    <label for="name"><b>sister name</b></label>
-    <input type="text" placeholder="Enter sister name" name="sister" id="sister" required>
+    <label for="name"><b>DOB</b></label>
+    <input type="text" placeholder="date of birth" name="dob" id="dob" required>
     <br>
 
     <label for="email"><b>Email</b></label>
